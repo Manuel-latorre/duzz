@@ -1,0 +1,7 @@
+.link{
+    @apply hover:text-[#00FF66] transition-all;
+}
+
+.active-link{
+    @apply text-[#00FF66];
+}
